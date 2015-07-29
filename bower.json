@@ -1,7 +1,7 @@
 {
   "name": "io-value",
-  "version": "0.9.8",
-  "homepage": "https://github.com/arodic/io-value",
+  "version": "0.9.13",
+  "homepage": "https://github.com/fluxio/io-value",
   "authors": [
     "Aleksandar Rodic <aleksandar.xyz@gmail.com>"
   ],
