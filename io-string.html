@@ -29,7 +29,7 @@ I/O element for string data type.
     </template>
     <template if="{{!disabled}}">
       <input id="value"
-        class="io-editor"
+        class="io-editor qasel_io-string_{{value | makeValidClass}}"
         tabindex="0"
         spellcheck="false"
         autocomplete="{{autocomplete}}"
